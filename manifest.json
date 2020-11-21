@@ -19,7 +19,7 @@
       "16": "icon/shuttle16.png",
       "32": "icon/shuttle32.png"
     },
-    "default_title": "Lazy VrMiBo",
+    "default_title": "1e stap chrome extension",
     "default_popup": "popup.html"
   },
     "commands": {
@@ -28,7 +28,7 @@
           "default": "Ctrl+Shift+B",
           "mac": "MacCtrl+Shift+B"
         },
-        "description": "toggle status badge"
+        "description": "CTRL SHIF B to toggle status badge"
       }
     }
     }
